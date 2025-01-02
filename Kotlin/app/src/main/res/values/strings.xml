@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Online String</string>
+    <string name="Line1">Start View</string>
+    <string name="Line2">Line 2</string>
+    <string name="EditText_text">this is a EditText</string>
+    <string name="CheckBox_text">this is a CheckBox</string>
+    <string name="RadioButton_text">this is a RadioButton</string>
+</resources>
