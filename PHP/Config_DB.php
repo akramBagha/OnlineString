@@ -1,39 +1,6 @@
 <?php
 
-    if(! defined('DB_SERVER')) {
-        define('DB_SERVER', 'localhost');
-    }
-
-    if(! defined('DB_USERNAME')) {
-        define('DB_USERNAME', 'root');
-    }
-
-    if(! defined('DB_PASSWORD')) {
-        define('DB_PASSWORD', '');
-    }
     
-    if(! defined('DB_DATABASE')) {
-        define('DB_DATABASE', 'online_string_app');
-    }
-
-      
-
-    // if(! defined('DB_SERVER')) {
-    //     define('DB_SERVER', 'www.sookazan.ir');
-    // }
-
-    // if(! defined('DB_USERNAME')) {
-    //     define('DB_USERNAME', 'sookazan_AkiB');
-    // }
-
-    // if(! defined('DB_PASSWORD')) {
-    //     define('DB_PASSWORD', 'G%P44Q0HcL&1bx6$yB');
-    // }
-    
-    // if(! defined('DB_DATABASE')) {
-    //     define('DB_DATABASE', 'sookazan_online_string_app');
-    // }
-
    
 
 
