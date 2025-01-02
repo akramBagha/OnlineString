@@ -1,3 +1,4 @@
 *.log
 *.tmp
 PHP/Config_DB.php
+Kotlin/app/src/main/java/com/bagha/onlinestring/MVVM/YourServerPath.kt
