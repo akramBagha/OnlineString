@@ -13,7 +13,9 @@ In this section you will see two levels of code:
 
 The customer or user who has ordered you to build a mobile application acts independently to edit the application fields, and this is a winning card for your projects.
 
-<video src="https://raw.githubusercontent.com/akramBagha/OnlineString/main/tutorial_3.mp4" controls width="600"></video>
+## Video Tutorial
+[Click here to download the tutorial video](https://raw.githubusercontent.com/akramBagha/OnlineString/main/tutorial_3.mp4)
+
 
 
 ** Note: For enter or new line which is \n on Android Use /n on online.
